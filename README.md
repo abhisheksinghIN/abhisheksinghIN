@@ -1,7 +1,6 @@
-# About Me
-Abhishek Singh
-Post-Doc-Researcher
-Institute for Earth Observation
+# Abhishek Singh
+Earth Observation Researcher
+Eurac Research - Institute for Earth Observation
 
 Email: abhishek.singh@eurac.edu
 
