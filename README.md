@@ -12,7 +12,7 @@ Abhishek Singh is a Post-Doc-Researcher in the Advanced Computing Group at the I
 
 Highlighted Publication:
 
-[1] Singh, A., Göhner, C.S., Stendardi, L., Claus, M., Cuozzo, G., Jacob, A. and Castelli, M., 2025. A Transformer-based Convolutional Regressor to include SAR Backscatter Signals in Monitoring Alpine Grasslands. IEEE Geoscience and Remote Sensing Letters. https://ieeexplore.ieee.org/abstract/document/11303207/
+[1] Singh, A., Göhner, C.S., Stendardi, L., Claus, M., Cuozzo, G., Jacob, A. and Castelli, M., 2025. A Transformer-based Convolutional Regressor to include SAR Backscatter Signals in Monitoring Alpine Grasslands. IEEE Geoscience and Remote Sensing Letters. [Link] https://ieeexplore.ieee.org/abstract/document/11303207/
 
 [2] Singh, A. and Bruzzone, L., 2025. Wavelet-based Deep Generative Framework for Super-Resolution of Low-Resolution Labelled Maps and Weak-Supervised Learning. IEEE Transactions on Geoscience and Remote Sensing.
 
