@@ -8,10 +8,8 @@ Email: abhishek.singh@eurac.edu
 
 [Google Scholar](https://scholar.google.com/citations?user=FJw7xZYAAAAJ&hl=en&authuser=1)
 
-[![ResearchGate](https://img.shields.io)](https://www.researchgate.net/profile/Abhishek-Singh-656?ev=hdr_xprf)
 
-
-Earth Observation | Remote Sensing | Deep Learning | Data Fusion | Onboard AI | Quantum Machine Learning
+Earth Observation | Remote Sensing | Deep Learning | Data Fusion | Onboard AI | TinyAI | Quantum Machine Learning
 
 Short Bio:
 
