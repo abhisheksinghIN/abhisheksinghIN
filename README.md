@@ -4,8 +4,8 @@ Eurac Research - Institute for Earth Observation
 
 Email: abhishek.singh@eurac.edu
 
-[![ResearchGate]](https://www.researchgate.net/profile/Abhishek-Singh-656?ev=hdr_xprf)
-[![Google Scholar]](https://scholar.google.com/citations?user=FJw7xZYAAAAJ&hl=en&authuser=1)
+[ResearchGate](https://www.researchgate.net/profile/Abhishek-Singh-656?ev=hdr_xprf)
+[Google Scholar](https://scholar.google.com/citations?user=FJw7xZYAAAAJ&hl=en&authuser=1)
 
 Earth Observation | Remote Sensing | Deep Learning | Data Fusion | Onboard AI | Quantum Machine Learning
 
