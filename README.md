@@ -51,15 +51,16 @@ Spatio-Temporal Analysis | TinyML for EO | Quantum ML
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Skills
 Languages: Python, C++, Shell  
-Frameworks: PyTorch, TensorFlow, PennyLane 
+
+DL Frameworks: PyTorch, TensorFlow, PennyLane 
+
 Tools: Docker, QGIS, SNAP GPT, Google Earth Engine  
 
 ---
 
-## 🤝 Let’s Collaborate
-I’m open to collaborations in:
+## 🤝 Ongoing Research Topics
 - 📡 ML for Earth Observation 
 - 🛰️ Satellite Data Fusion  
 - ⚡ Efficient / TinyML Models  
