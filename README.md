@@ -1,3 +1,87 @@
+# 🌍 Abhishek Singh  
+**Earth Observation Researcher**  
+📍 Eurac Research – Institute for Earth Observation, Bolzano, Italy  
+
+📧 abhishek.singh@eurac.edu  
+🔗 [ResearchGate](https://www.researchgate.net/profile/Abhishek-Singh-656?ev=hdr_xprf) • [Google Scholar](https://scholar.google.com/citations?user=FJw7xZYAAAAJ&hl=en&authuser=1)
+
+---
+
+## 🚀 About Me
+Postdoctoral Researcher in the **Advanced Computing Group** at Eurac Research, working at the intersection of:
+
+- 🌐 Earth Observation  
+- 🛰️ Remote Sensing  
+- 🤖 Deep Learning  
+- 🔗 Data Fusion  
+- 🚀 Onboard AI & TinyML  
+- ⚛️ Quantum Machine Learning  
+
+Currently contributing to:
+- 🌱 **ScaleAgData** – Grassland monitoring in the Italian Alps  
+- 🧠 **Podiums** – Onboard AI for Earth Observation, Pseudo-guidance for semantic segmentation  
+- 🐦 **Birdwatch** – Ploughing event detection using InSAR Coherence
+
+---
+
+## 🧠 Research Interests
+Weakly-Supervised Learning | Generative Models | CNNs | Attention Mechanisms  
+Multi-Source Satellite Data | Data Fusion | Land Cover Mapping  
+Spatio-Temporal Analysis | TinyML for EO | Quantum ML  
+
+---
+
+## 🎓 Academic Background
+- 🎓 **Ph.D. in ICT (Space Data Science & Technology)**  
+  University of Trento, Italy — Jan 2024  
+
+---
+
+## 📄 Highlighted Publications
+
+1. Transformer-based Convolutional Regressor for SAR Integration  
+   *IEEE GRSL, 2025*  
+   https://ieeexplore.ieee.org/document/11303207  
+
+2. Wavelet-based Deep Generative Framework for Super-Resolution  
+   *IEEE TGRS, 2025*  
+   https://ieeexplore.ieee.org/abstract/document/11016942  
+
+3. WIANet: Wavelet-inspired Attention CNN  
+   *IEEE GRSL, 2022*  
+   https://ieeexplore.ieee.org/abstract/document/9999216  
+
+4. Contractive-Expansive CNNs for Multispectral Classification  
+   *IEEE GRSL, 2022*  
+   https://ieeexplore.ieee.org/abstract/document/9910178  
+
+5. SIGAN: GAN-based Data Augmentation  
+   *IEEE GRSL, 2021*  
+   https://ieeexplore.ieee.org/abstract/document/9537161  
+
+---
+
+## 🛠️ Tech Stack
+Languages: Python, C++, Shell  
+Frameworks: PyTorch, TensorFlow, PennyLane 
+Tools: Docker, QGIS, SNAP GPT, Google Earth Engine  
+
+---
+
+## 🤝 Let’s Collaborate
+I’m open to collaborations in:
+- 📡 ML for Earth Observation 
+- 🛰️ Satellite Data Fusion  
+- ⚡ Efficient / TinyML Models  
+- 🧪 Experimental ML (Quantum / Generative)  
+
+---
+
+## ✨ Fun Fact
+I enjoy pushing ML models to run where they normally less explored — from ground infrastructure to satellites🚀  
+
+
+<!--
 # Abhishek Singh
 Earth Observation Researcher,
 Eurac Research - Institute for Earth Observation
@@ -26,7 +110,7 @@ Highlighted Publication:
 [4] [Singh, A. and Bruzzone, L., 2022. Mono-and dual-regulated contractive-expansive-contractive deep convolutional networks for classification of multispectral remote sensing images. IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/abstract/document/9910178)
 
 [5] [Singh, A. and Bruzzone, L., 2021. SIGAN: Spectral index generative adversarial network for data augmentation in multispectral remote sensing images. IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/abstract/document/9537161)
-<!--
+
 **abhisheksinghIN/abhisheksinghIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
