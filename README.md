@@ -1,4 +1,4 @@
-# 🌍 Abhishek Singh  
+# Abhishek Singh  
 **Earth Observation Researcher**  
 📍 Eurac Research – Institute for Earth Observation, Bolzano, Italy  
 
