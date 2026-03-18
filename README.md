@@ -32,32 +32,22 @@ Spatio-Temporal Analysis | TinyML for EO | Quantum ML
 ---
 
 ## 🎓 Academic Background
-- 🎓 **Ph.D. in ICT (Space Data Science & Technology)**  
+- 🎓 **Ph.D. in Information and Communication Technology (Space Data Science & Technology)**  
   University of Trento, Italy — Jan 2024  
 
 ---
 
 ## 📄 Highlighted Publications
 
-1. Transformer-based Convolutional Regressor for SAR Integration  
-   *IEEE GRSL, 2025*  
-   https://ieeexplore.ieee.org/document/11303207  
+[1] [Singh, A., Göhner, C.S., Stendardi, L., Claus, M., Cuozzo, G., Jacob, A. and Castelli, M., 2025. A Transformer-based Convolutional Regressor to include SAR Backscatter Signals in Monitoring Alpine Grasslands. IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/document/11303207)
 
-2. Wavelet-based Deep Generative Framework for Super-Resolution  
-   *IEEE TGRS, 2025*  
-   https://ieeexplore.ieee.org/abstract/document/11016942  
+[2] [Singh, A. and Bruzzone, L., 2025. Wavelet-based Deep Generative Framework for Super-Resolution of Low-Resolution Labelled Maps and Weak-Supervised Learning. IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/abstract/document/11016942)
 
-3. WIANet: Wavelet-inspired Attention CNN  
-   *IEEE GRSL, 2022*  
-   https://ieeexplore.ieee.org/abstract/document/9999216  
+[3] [Singh, A. and Bruzzone, L., 2022. WIANet: A wavelet-inspired attention-based convolution neural network for land cover classification. IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/abstract/document/9999216)
 
-4. Contractive-Expansive CNNs for Multispectral Classification  
-   *IEEE GRSL, 2022*  
-   https://ieeexplore.ieee.org/abstract/document/9910178  
+[4] [Singh, A. and Bruzzone, L., 2022. Mono-and dual-regulated contractive-expansive-contractive deep convolutional networks for classification of multispectral remote sensing images. IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/abstract/document/9910178)
 
-5. SIGAN: GAN-based Data Augmentation  
-   *IEEE GRSL, 2021*  
-   https://ieeexplore.ieee.org/abstract/document/9537161  
+[5] [Singh, A. and Bruzzone, L., 2021. SIGAN: Spectral index generative adversarial network for data augmentation in multispectral remote sensing images. IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/abstract/document/9537161) 
 
 ---
 
@@ -77,7 +67,7 @@ I’m open to collaborations in:
 
 ---
 
-## ✨ Fun Fact
+## ✨ Outlook
 I enjoy pushing ML models to run where they normally less explored — from ground infrastructure to satellites🚀  
 
 
