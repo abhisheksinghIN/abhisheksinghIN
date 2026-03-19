@@ -19,15 +19,15 @@ Postdoctoral Researcher in the **Advanced Computing Group** at Eurac Research, w
 
 Currently contributing to:
 - 🌱 **ScaleAgData** – Grassland monitoring in the Italian Alps  
-- 🧠 **Podiums** – Onboard AI for Earth Observation, Pseudo-guidance for semantic segmentation  
-- 🐦 **Birdwatch** – Ploughing event detection using InSAR Coherence
+- 🚀 **Podiums** – Onboard AI for Earth Observation, Pseudo-guidance for semantic segmentation  
+- 🌱 **Birdwatch** – Ploughing event detection using InSAR Coherence
+- 🚀 **ARGOS** - Onboard AI for real-time SAR data processing
 
 ---
 
 ## 🧠 Research Interests
-Weakly-Supervised Learning | Generative Models | CNNs | Attention Mechanisms  
-Multi-Source Satellite Data | Data Fusion | Land Cover Mapping  
-Spatio-Temporal Analysis | TinyML for EO | Quantum ML  
+- Weakly-Supervised Learning | Deep Leraning | Generative Models | Attention Mechanisms | TinyML for EO | Quantum ML for EO
+- Multi-Source Satellite Data (SAR + Optical) | Data Fusion | Land Cover Mapping | Spatio-Temporal Analysis 
 
 ---
 
@@ -56,7 +56,7 @@ Languages: Python, C++, Shell
 
 DL Frameworks: PyTorch, TensorFlow, PennyLane 
 
-Tools: Docker, QGIS, SNAP GPT, Google Earth Engine  
+Tools: Docker, SNAP GPT, CDSE, Google Earth Engine, QGIS
 
 ---
 
@@ -69,7 +69,7 @@ Tools: Docker, QGIS, SNAP GPT, Google Earth Engine
 ---
 
 ## ✨ Outlook
-I enjoy pushing ML models to run where they normally less explored — from ground infrastructure to satellites🚀  
+I explore ML models to run where they normally less explored — from ground infrastructure to satellites🚀  
 
 
 <!--
