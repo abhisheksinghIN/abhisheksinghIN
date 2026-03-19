@@ -12,7 +12,7 @@ Postdoctoral Researcher in the **Advanced Computing Group** at Eurac Research, w
 
 - 🌐 Earth Observation  
 - 🛰️ Remote Sensing  
-- 🤖 Deep Learning  
+- ⚛️ Deep Learning  
 - 🔗 Data Fusion  
 - 🚀 Onboard AI & TinyML  
 - ⚛️ Quantum Machine Learning  
@@ -61,10 +61,10 @@ Tools: Docker, SNAP GPT, CDSE, Google Earth Engine, QGIS
 ---
 
 ## 🤝 Ongoing Research Topics
-- 📡 ML for Earth Observation 
+- ⚛️ ML for Earth Observation 
 - 🛰️ Satellite Data Fusion  
 - ⚡ Efficient / TinyML Models  
-- 🧪 Experimental ML (Quantum / Generative)  
+- ⚛️ Experimental ML (Quantum / Generative)  
 
 ---
 
