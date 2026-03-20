@@ -52,13 +52,13 @@ Currently contributing to:
 ---
 
 ## 🛠️ Tech Skills
-**Languages:** Python, C++, Shell, MatLab  
+**Languages:** Python, C++, Shell, MATLAB
 
-**ML Frameworks:** PyTorch, TensorFlow, PennyLane, Scikit-Learn
+**Machine Learning:** PyTorch, TensorFlow, PennyLane, Scikit-Learn
 
-**Geospatial Data Framemork:** Rasterio, GDAL, Geopandas, Xarray
+**Geospatial Stack:** Rasterio, GDAL, Geopandas, Xarray
 
-**Tools:** Docker, SNAP GPT, CDSE, Google Earth Engine, QGIS
+**Platforms & Tools:** Docker, SNAP GPT, CDSE, Google Earth Engine, QGIS
 
 ---
 
