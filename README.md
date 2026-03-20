@@ -39,15 +39,15 @@ Currently contributing to:
 
 ## 📄 Highlighted Publications
 
-[1] [Singh, A., Göhner, C.S., Stendardi, L., Claus, M., Cuozzo, G., Jacob, A. and Castelli, M., 2025. A Transformer-based Convolutional Regressor to include SAR Backscatter Signals in Monitoring Alpine Grasslands. IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/document/11303207)
+[1] Singh, A., Göhner, C.S., Stendardi, L., Claus, M., Cuozzo, G., Jacob, A. and Castelli, M., 2025. [A Transformer-based Convolutional Regressor to include SAR Backscatter Signals in Monitoring Alpine Grasslands. IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/document/11303207)
 
-[2] [Singh, A. and Bruzzone, L., 2025. Wavelet-based Deep Generative Framework for Super-Resolution of Low-Resolution Labelled Maps and Weak-Supervised Learning. IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/abstract/document/11016942)
+[2] Singh, A. and Bruzzone, L., 2025. [Wavelet-based Deep Generative Framework for Super-Resolution of Low-Resolution Labelled Maps and Weak-Supervised Learning. IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/abstract/document/11016942)
 
-[3] [Singh, A. and Bruzzone, L., 2022. WIANet: A wavelet-inspired attention-based convolution neural network for land cover classification. IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/abstract/document/9999216)
+[3] Singh, A. and Bruzzone, L., 2022. [WIANet: A wavelet-inspired attention-based convolution neural network for land cover classification. IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/abstract/document/9999216)
 
-[4] [Singh, A. and Bruzzone, L., 2022. Mono-and dual-regulated contractive-expansive-contractive deep convolutional networks for classification of multispectral remote sensing images. IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/abstract/document/9910178)
+[4] Singh, A. and Bruzzone, L., 2022. [Mono-and dual-regulated contractive-expansive-contractive deep convolutional networks for classification of multispectral remote sensing images. IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/abstract/document/9910178)
 
-[5] [Singh, A. and Bruzzone, L., 2021. SIGAN: Spectral index generative adversarial network for data augmentation in multispectral remote sensing images. IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/abstract/document/9537161) 
+[5] Singh, A. and Bruzzone, L., 2021. [SIGAN: Spectral index generative adversarial network for data augmentation in multispectral remote sensing images. IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/abstract/document/9537161) 
 
 ---
 
