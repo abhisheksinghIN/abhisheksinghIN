@@ -1,5 +1,5 @@
 # Abhishek Singh  
-**Earth Observation Researcher**  
+**Machine Learning Researcher**  
 📍 Eurac Research – Institute for Earth Observation, Bolzano, Italy  
 
 📧 abhishek.singh@eurac.edu  
