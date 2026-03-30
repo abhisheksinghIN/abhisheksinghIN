@@ -10,8 +10,7 @@
 ## 🚀 About Me
 Postdoctoral Researcher in the **Advanced Computing Group** at Eurac Research, working at the intersection of:
 
-- 🌐 Earth Observation  
-- 🛰️ Remote Sensing  
+- 🛰️ Remote Sensing (SAR/Optical)
 - ⚛️ Deep Learning  
 - 🔗 Data Fusion  
 - 🚀 Onboard AI & TinyML  
