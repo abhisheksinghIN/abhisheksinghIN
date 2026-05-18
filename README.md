@@ -13,7 +13,7 @@ Postdoctoral Researcher in the **Advanced Computing Group** at Eurac Research, w
 - 🛰️ Remote Sensing (SAR/Optical)
 - ⚛️ Deep Learning  
 - 🔗 Data Fusion  
-- 🚀 Onboard AI & TinyML  
+- 🚀 Onboard AI | TinyML| Quantization | Pruning
 - ⚛️ Quantum Machine Learning  
 
 Currently contributing to:
