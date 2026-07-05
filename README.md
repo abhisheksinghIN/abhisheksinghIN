@@ -4,7 +4,8 @@
 
 📧 abhishek.singh@eurac.edu  
 🔗 [ResearchGate](https://www.researchgate.net/profile/Abhishek-Singh-656?ev=hdr_xprf) • [Google Scholar](https://scholar.google.com/citations?user=FJw7xZYAAAAJ&hl=en&authuser=1)
-**[News - Pannel Discussion at ESA ESRIN on the "Quantum Computing"](https://www.eurac.edu/en/news/institute-for-earth-observation/esa-fnnovation-summit)
+
+[News - Pannel Discussion at ESA ESRIN  (Frascati, Italy) on the "Quantum Computing"](https://www.eurac.edu/en/news/institute-for-earth-observation/esa-fnnovation-summit)
 ---
 
 ## 🚀 About Me
