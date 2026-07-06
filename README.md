@@ -6,7 +6,7 @@
 🔗 [ResearchGate](https://www.researchgate.net/profile/Abhishek-Singh-656?ev=hdr_xprf) • [Google Scholar](https://scholar.google.com/citations?user=FJw7xZYAAAAJ&hl=en&authuser=1)
 
 **Highlights**
-- [Fishbowl Session/Pannel Discussion](https://www.eurac.edu/en/news/institute-for-earth-observation/esa-fnnovation-summit) at the European Space Agency (ESA) Philab - [Φnnovation Summit](https://philab.esa.int/phinnovation/) (Frascati, Italy) on the "Quantum Computing"
+- [Fishbowl Session/Pannel Discussion](https://www.eurac.edu/en/news/institute-for-earth-observation/esa-fnnovation-summit) at the European Space Agency (ESA) [Philab](https://philab.esa.int/) - [Φnnovation Summit](https://philab.esa.int/phinnovation/) (Frascati, Italy) on the "Quantum Computing"
 - [ScaleAgData Project](https://scaleagdata.eu/en) - European Union’s Horizon Europe research and innovation programme - [Github](https://github.com/ScaleAGData/Grassland-RILAB)
 ---
 
