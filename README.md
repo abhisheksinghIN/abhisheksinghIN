@@ -75,7 +75,7 @@ Currently contributing to:
 ---
 
 ## ✨ Outlook
-I explore ML models to run where they normally less explored, from ground infrastructure to satellites🚀  
+I explore ML models to run where they normally less explored, from ground infrastructure to satellites intelligence🚀  
 
 
 <!--
