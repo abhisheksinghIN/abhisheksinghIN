@@ -8,6 +8,8 @@
 **Highlights**
 - [Fishbowl Session/Pannel Discussion](https://www.eurac.edu/en/news/institute-for-earth-observation/esa-fnnovation-summit) at the European Space Agency (ESA) [Philab](https://philab.esa.int/) - [Φnnovation Summit](https://philab.esa.int/phinnovation/) (Frascati, Italy) on the "Quantum Computing"
 - [ScaleAgData Project](https://scaleagdata.eu/en) - European Union’s Horizon Europe research and innovation programme - [Github](https://github.com/ScaleAGData/Grassland-RILAB)
+- [ARGOS - Artificial intelligence for Real-time Guidance of Onboard SAR applications](https://cordis.europa.eu/project/id/101293423/it) -  European Union’s Horizon Research and Innovation Actions
+- [PODIUMS - Payload for Onboard Data and Intelligent Multispectral Systems](https://www.eurac.edu/en/projects/podiums)
 ---
 
 ## 🚀 About Me
