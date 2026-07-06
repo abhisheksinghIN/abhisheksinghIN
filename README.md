@@ -1,11 +1,13 @@
 # Abhishek Singh  
-**Machine Learning Researcher**  
+**Machine Learning and Earth Observation Researcher**  
 📍 Eurac Research – Institute for Earth Observation, Bolzano, Italy  
 
 📧 abhishek.singh@eurac.edu  
 🔗 [ResearchGate](https://www.researchgate.net/profile/Abhishek-Singh-656?ev=hdr_xprf) • [Google Scholar](https://scholar.google.com/citations?user=FJw7xZYAAAAJ&hl=en&authuser=1)
 
+**Highlights**
 - [Fishbowl Session/Pannel Discussion](https://www.eurac.edu/en/news/institute-for-earth-observation/esa-fnnovation-summit) at the European Space Agency (ESA) Philab - [Φnnovation Summit](https://philab.esa.int/phinnovation/) (Frascati, Italy) on the "Quantum Computing"
+- [ScaleAgData Project](https://scaleagdata.eu/en) - European Union’s Horizon Europe research and innovation programme - [Github](https://github.com/ScaleAGData/Grassland-RILAB)
 ---
 
 ## 🚀 About Me
@@ -26,14 +28,16 @@ Currently contributing to:
 ---
 
 ## 🧠 Research Interests
-- Weakly-Supervised Learning | Deep Leraning | Generative Models | Attention Mechanisms | TinyML for EO | Quantum ML for EO
-- Multi-Source Satellite Data (SAR + Optical) | Data Fusion | Land Cover Mapping | Spatio-Temporal Analysis 
+- Weakly-Supervised Learning for EO | Deep Learning | Generative Models | Attention Mechanisms | TinyML for EO | Quantum ML for EO
+- Multi-Sensor Satellite Data (SAR + Optical) | Data Fusion | Land Cover Mapping | Spatio-Temporal Analysis 
 
 ---
 
 ## 🎓 Academic Background
 - 🎓 **Ph.D. in Information and Communication Technology (Space Data Science & Technology)**  
-  University of Trento, Italy — Jan 2024  
+  University of Trento, Italy — Jan 2024
+- 🎓 **Masters in Remote Sensing and GIS**
+  Indian Institute of Remote Sensing (Indian Space Research Organization), India - July 2019
 
 ---
 
