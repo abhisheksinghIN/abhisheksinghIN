@@ -38,7 +38,8 @@ Currently contributing to:
   University of Trento, Italy — Jan 2024 [Thesis](https://tesidottorato.depositolegale.it/handle/20.500.14242/94201)
 - 🎓 **Masters in Remote Sensing and GIS**
   Indian Institute of Remote Sensing (Indian Space Research Organization), India - July 2019
-
+- 🎓 **B.Tech. in Electronics Engineering**
+  University of Delhi, India - Jun 2017
 ---
 
 ## 📄 Highlighted Publications
