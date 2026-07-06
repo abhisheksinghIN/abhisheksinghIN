@@ -35,7 +35,7 @@ Currently contributing to:
 
 ## 🎓 Academic Background
 - 🎓 **Ph.D. in Information and Communication Technology (Space Data Science & Technology)**  
-  University of Trento, Italy — Jan 2024
+  University of Trento, Italy — Jan 2024 [Thesis](https://tesidottorato.depositolegale.it/handle/20.500.14242/94201)
 - 🎓 **Masters in Remote Sensing and GIS**
   Indian Institute of Remote Sensing (Indian Space Research Organization), India - July 2019
 
