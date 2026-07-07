@@ -25,7 +25,7 @@ Currently contributing to:
 - 🌱 **ScaleAgData** – Grassland monitoring in the Italian Alps  
 - 🚀 **Podiums** – Onboard AI for Earth Observation, Pseudo-guidance for semantic segmentation  
 - 🌱 **Birdwatch** – Ploughing event detection using InSAR Coherence
-- 🚀 **ARGOS** - Onboard AI for real-time SAR data processing
+- 🚀 **ARGOS** - Onboard AI for real-time SAR data processing (Soil-Moisture Estimation)
 
 ---
 
