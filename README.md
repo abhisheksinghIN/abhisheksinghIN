@@ -69,26 +69,39 @@ Currently contributing to:
 
 ---
 
-## 🤝 Ongoing Research Topics
-- ⚛️ ML for Earth Observation 
-- 🛰️ Satellite Data Fusion  
-- ⚡ Efficient / TinyML Models  
-- ⚛️ Experimental ML (Quantum / Generative)  
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhisheksinghIN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksinghIN&layout=me=tokyonight
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stheme=tokyonight"/>
+
+</div>
 
 ---
 
-## ✨ Outlook
-I explore ML models to run where they normally less explored, from ground infrastructure to satellites intelligence🚀  
+## 🏆 GitHub Trophies
 
-## 📈 GitHub Analytics
-80
- 
-81
-<p align="center">
-82
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhisheksinghIN&show_icons=true&theme=tokyonightrname=abhisheksinghIN&layout=compact&theme=tokyonight&hide_border=true" />
-83
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhisheksinghIN&theme=tokyonight&no-frame=true&row=1&column=7"/-
+
+## 👀 Profile Views
+
+<div align="center">
+
+ghpvc/?username=abhisheksinghIN&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 <!--
 # Abhishek Singh
