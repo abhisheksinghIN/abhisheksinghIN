@@ -80,6 +80,8 @@ Currently contributing to:
 ## ✨ Outlook
 I explore ML models to run where they normally less explored, from ground infrastructure to satellites intelligence🚀  
 
+## 📊 GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&themeop Languages](https://github-readme-stats.vercel.app/api/topYOUR_USERNAME&layout=compact&theme=tokyonight
 
 <!--
 # Abhishek Singh
