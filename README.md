@@ -69,39 +69,16 @@ Currently contributing to:
 
 ---
 
----
-
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhisheksinghIN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpact&langs_count=8&theme=tokyonight
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhisheksinghIN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksinghIN&layout=me=tokyonight
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stheme=tokyonight"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhisheksinghIN&theme=tokyonight&no-frame=true&row=1&column=7"/-
-
-## 👀 Profile Views
-
-<div align="center">
-
-ghpvc/?username=abhisheksinghIN&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stapp.com/?user=abhisheksinghIN&theme=tokyonight
+</p>
 
 <!--
 # Abhishek Singh
