@@ -81,7 +81,7 @@ Currently contributing to:
 I explore ML models to run where they normally less explored, from ground infrastructure to satellites intelligence🚀  
 
 ## 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&themeop Languages](https://github-readme-stats.vercel.app/api/topYOUR_USERNAME&layout=compact&theme=tokyonight
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhisheksinghIN&show_icons=true&themeop Languages](https://github-readme-stats.vercel.app/api/topabhisheksinghIN&layout=compact&theme=tokyonight
 
 <!--
 # Abhishek Singh
