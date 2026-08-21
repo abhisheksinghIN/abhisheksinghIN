@@ -71,14 +71,9 @@ Currently contributing to:
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhisheksinghIN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpact&langs_count=8&theme=tokyonight
-</p>
+https://github-readme-stats-sigma-five.vercel.app/api?username=abhisheksinghIN&show_icons=true&theme=tokyonight
 
-<p align="center">
-  <img src="https://github-readme-streak-stapp.com/?user=abhisheksinghIN&theme=tokyonight
-</p>
+
 
 <!--
 # Abhishek Singh
