@@ -69,10 +69,6 @@ Currently contributing to:
 
 ---
 
-## 📊 GitHub Analytics
-
-https://github-readme-stats-sigma-five.vercel.app/api?username=abhisheksinghIN&show_icons=true&theme=tokyonight
-
 
 
 <!--
