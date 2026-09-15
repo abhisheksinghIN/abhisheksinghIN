@@ -6,9 +6,9 @@
 🔗 [ResearchGate](https://www.researchgate.net/profile/Abhishek-Singh-656?ev=hdr_xprf) • [Google Scholar](https://scholar.google.com/citations?user=FJw7xZYAAAAJ&hl=en&authuser=1)
 
 **Highlights**
-- EO-Reasoning: Evidence-grounded temporal Earth Observation reasoning with Geo-Foundation Models and an agentic LLM - [Github Repo](https://github.com/abhisheksinghIN/eo-reasoning)
+- EO-Reasoning: Evidence-grounded temporal Earth Observation reasoning with Geo-Foundation Models and an agentic LLM - [Github](https://github.com/abhisheksinghIN/eo-reasoning)
 - [Fishbowl Session/Discussion](https://www.eurac.edu/en/news/institute-for-earth-observation/esa-fnnovation-summit) at the European Space Agency (ESA) [Philab](https://philab.esa.int/) - [Φnnovation Summit](https://philab.esa.int/phinnovation/) (Frascati, Italy) on the "Quantum Computing"
-- [ScaleAgData Project](https://scaleagdata.eu/en) - European Union’s Horizon Europe research and innovation programme - [Github Repo](https://github.com/ScaleAGData/Grassland-RILAB) (2023-2026)
+- [ScaleAgData Project](https://scaleagdata.eu/en) - European Union’s Horizon Europe research and innovation programme - [Github](https://github.com/ScaleAGData/Grassland-RILAB) (2023-2026)
 - [ARGOS - Artificial intelligence for Real-time Guidance of Onboard SAR applications](https://cordis.europa.eu/project/id/101293423/it) -  European Union’s Horizon Research and Innovation Actions (2026-2029)
 - [PODIUMS - Payload for Onboard Data and Intelligent Multispectral Systems](https://www.eurac.edu/en/projects/podiums) - ESA Project (2024-2025)
 ---
