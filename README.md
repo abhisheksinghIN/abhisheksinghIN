@@ -24,10 +24,10 @@ Postdoctoral Researcher in the **Advanced Computing Group** at Eurac Research, w
 - ⚛️ Quantum Machine Learning  
 
 Currently contributing to:
-- 🌱 **ScaleAgData** – Grassland monitoring in the Italian Alps  
-- 🚀 **Podiums** – Onboard AI for Earth Observation, Pseudo-guidance for semantic segmentation  
-- 🌱 **Birdwatch** – Ploughing event detection using InSAR Coherence
-- 🚀 **ARGOS** - Onboard AI for real-time SAR data processing (Soil-Moisture Estimation)
+- 🌱 **ScaleAgData (Horizon Europe)** – Grassland monitoring in the Italian Alps  
+- 🚀 **Podiums (ESA)** – Onboard AI for Earth Observation, Pseudo-guidance for semantic segmentation  
+- 🌱 **Birdwatch (Horizon Europe)** – Ploughing event detection using InSAR Coherence
+- 🚀 **ARGOS (Horizon Europe)** - Onboard AI for real-time SAR data processing (Soil-Moisture Estimation)
 
 ---
 
@@ -38,7 +38,7 @@ Currently contributing to:
 ---
 
 ## 🎓 Academic Background
-- 🎓 **Ph.D. in Information and Communication Technology (Space Data Science & Technology)**  
+- 🎓 **Ph.D. in Information and Communication Technology (Focus: Deep Learning and Remote Sensing)**  
   University of Trento, Italy — Jan 2024 [Thesis](https://tesidottorato.depositolegale.it/handle/20.500.14242/94201)
 - 🎓 **M.Tech. in Remote Sensing and GIS**
   Indian Institute of Remote Sensing (Indian Space Research Organization), India - July 2019
@@ -67,7 +67,7 @@ Currently contributing to:
 
 **Geospatial Stack:** Rasterio, GDAL, Geopandas, Xarray
 
-**Platforms & Tools:** Docker, SNAP GPT, CDSE, Google Earth Engine, QGIS
+**Platforms & Tools:** Docker, GitHub, SNAP GPT, CDSE APIs, Google Earth Engine, QGIS
 
 ---
 
