@@ -24,11 +24,13 @@ Postdoctoral Researcher in the **Advanced Computing Group** at Eurac Research, w
 - ⚛️ Quantum Machine Learning  
 
 Currently contributing to:
-- 🌱 **ScaleAgData (Horizon Europe)** – Grassland monitoring in the Italian Alps  
-- 🚀 **Podiums (ESA)** – Onboard AI for Earth Observation, Pseudo-guidance for semantic segmentation  
-- 🌱 **Birdwatch (Horizon Europe)** – Ploughing event detection using InSAR Coherence
-- 🚀 **ARGOS (Horizon Europe)** - Onboard AI for real-time SAR data processing (Soil-Moisture Estimation)
+- **ScaleAgData (Horizon Europe)** – Grassland monitoring in the Italian Alps  
+-  **Podiums (ESA)** – Onboard AI for Earth Observation, Pseudo-guidance for semantic segmentation  
+-  **ARGOS (Horizon Europe)** - Onboard AI for real-time SAR data processing (Soil-Moisture Estimation)
 
+Contributed to:
+- **Birdwatch (Horizon Europe)** – Ploughing event detection using InSAR Coherence
+- **PrismaLearn (Italian Space Agency)** - Multiclass crop-mapping using Deep Learning and Prisma Hyperspectral Data. [Paper](https://ieeexplore.ieee.org/abstract/document/10640815) - [Poster]
 ---
 
 ## 🧠 Research Interests
